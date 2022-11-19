@@ -1,3 +1,6 @@
+
+theme: jekyll_plugins
+
 # Chapter 5: Neural Network (Summary)
 
 ## GLM
